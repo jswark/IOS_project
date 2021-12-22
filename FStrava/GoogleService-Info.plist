@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>651961380824-d0au1o7csnvkpusmfb1efijqrtqud6nq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.651961380824-d0au1o7csnvkpusmfb1efijqrtqud6nq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBol_gnVOlUKEp_Wk52QNZHJrnQ9Cg0m5I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>651961380824</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.FStrava</string>
+	<key>PROJECT_ID</key>
+	<string>fstrava-ee941</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fstrava-ee941.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:651961380824:ios:4318fda0d1eea287fd4cad</string>
+</dict>
+</plist>
